@@ -5,4 +5,5 @@ public class Salut {
         System.out.println("salut");
         System.out.println("De ce dra nu vrei sa maergi");
         System.out.println("ddfdfdd");
+    }
 }
