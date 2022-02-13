@@ -1,11 +1,12 @@
 package ro.java.ctrln;
 
+
 public class Salut {
     // ce cacat de treaba
     // este asta;
     /*
     acum ori da ori ba
-    kekklkkkfkkcckldkk
+    kekklkkkfkkcckldk
      */
     public static void main(String[] args) {
         System.out.println("salut");
