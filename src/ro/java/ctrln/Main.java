@@ -1,6 +1,6 @@
 package ro.java.ctrln;
 
-//ATENTIE -- SE PPOATE IMPORTA O CLASA DIN ALT PACHET CHIA RDACA AU ACELASI NUME
+//ATENTIE -- SE PPOATE IMPORTA O CLASA DIN ALT PACHET
 //import ro.java.misc.Main;
 
 public class Main {
